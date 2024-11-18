@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Yichun Feng 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yichun10&label=Visitors&color=blue&style=plastic" alt="yichun10" /></p>
 
-#### 🔭 I am a Master's Graduate Student of Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences. My research interests include large language model, machine learning, knowledge graph, and its applications in bioinformatics.
+#### 🔭 I am a PhD Student of University of Chinese Academy of Sciences. My research interests include large language model, machine learning, knowledge graph, and its applications in bioinformatics.
 <!--
 **yichun10/yichun10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
